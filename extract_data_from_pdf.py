@@ -1,7 +1,6 @@
 import fitz
 import os 
 import openpyxl
-import time
 
 files_path = r'/home/andrei/Downloads/tickets'
 excel_path = r'/home/andrei/Documents/data_from_pdf/controle de ticket.xlsx'
